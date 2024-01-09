@@ -9,7 +9,7 @@ Sou um desenvolvedor de software com 15 anos de experiência, especializado em .
 - **Projetos e Desafios:** Enfrentei projetos desafiadores, desenvolvendo resiliência e persistência. Adoro trabalhar em equipe e acredito fortemente na colaboração.
 
 ### 💡 Habilidades Chave
-- **Linguagens e Tecnologias:** .Net Core, Azure DevOps, Microserviços e Mensageria, Cache Distribuido.
+- **Linguagens e Tecnologias:** .Net, C#, Azure DevOps, Microserviços e Mensageria, Cache Distribuido.
 - **Soft Skills:** Comunicação eficaz, trabalho em equipe, resiliência.
 
 ### 📫 Contato
