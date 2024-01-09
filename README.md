@@ -1,7 +1,7 @@
 # Olá, sou Elton A Pering 👋
 
 ## 🚀 Sobre Mim
-Sou um desenvolvedor de software com 15 anos de experiência, especializado em .Net Core e Azure DevOps. Tenho uma forte paixão por aprender e aplicar novas tecnologias e tendências no campo da programação.
+Sou um desenvolvedor de software com 15 anos de experiência, especializado em .Net e Azure DevOps. Tenho uma forte paixão por aprender e aplicar novas tecnologias e tendências no campo da programação.
 
 ### 🌱 Minha Jornada
 - **Início da Carreira:** Comecei como Analista/Programador Delphi, mergulhando em diversas tecnologias e linguagens.
