@@ -14,7 +14,7 @@ Sou um desenvolvedor de software com 15 anos de experiência, especializado em .
 
 ### 📫 Contato
 - **Email:** pergunte-me
-- **LinkedIn:** [[SeuPerfilLinkedIn](https://www.linkedin.com/in/seuperfillinkedin/)](https://www.linkedin.com/in/eltonpering/)
+- **LinkedIn:** [(https://www.linkedin.com/in/seuperfillinkedin/)](https://www.linkedin.com/in/eltonpering/)
 
 ---
 
