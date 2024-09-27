@@ -14,7 +14,6 @@ Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Especia
 
 ### 📫 Contato
 - **Email:** pergunte-me
-- **LinkedIn:** [(https://www.linkedin.com/in/seuperfillinkedin/)](https://www.linkedin.com/in/eltonpering/)
 
 ---
 
